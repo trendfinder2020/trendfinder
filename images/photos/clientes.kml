@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>clientes_por_segmento.kml</name>
+<ScreenOverlay id="logo">
+	<name>Logo</name>
+	<Icon>
+		<href>https://docs.google.com/document/d/e/2PACX-1vSXr6R2ViDPBELRiioCeCdojNGAyNC3F4K5HOWglDwwAzHqwxiacMgNdhze5Fv02_ALQoVI0kBDvXGU/pub</href>
+	</Icon>
+	<overlayXY 			x="0" y="1" xunits="fraction" 	yunits="fraction"/>
+	<screenXY 			x="0" y="1" xunits="fraction" 	yunits="fraction"/>
+	<rotationXY 		x="0" y="0" xunits="fraction" 	yunits="fraction"/>
+	<size 				x="0" y="0" xunits="pixels" 	yunits="pixels"/>
+</ScreenOverlay>
+<ScreenOverlay>
+        <name>Legenda</name>
+        <Icon>
+            <href>C:\planilhas\web2\legenda.png</href>
+        </Icon>
+        <overlayXY	x="0.01" y="0.05" 	xunits="fraction" yunits="fraction"/>
+        <screenXY 	x="0.01" y="0.05" 	xunits="fraction" yunits="fraction"/>
+        <rotationXY x="0" 	 y="0" 		xunits="fraction" yunits="fraction"/>
+        <size 		x="0" 	 y="0" 		xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+<open>1</open>
+<Style id="SEG001">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG002">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG003">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG004">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG005">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG006">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG007">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG008">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG009">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG010">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG011">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Folder>
+<name>DROGARIA</name>
+	<Placemark>
+		<name>ADMILSON L OLIVEIRA DROGARIA ME</name>
+		<Snippet maxLines="1">BAIRRO:SERRARIA - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000987<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Serraria<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        10</b><br><b>Total em R$: R$       154,90</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       154,90<br><b>Maior Atraso: </b> R$       160,00<br><b>Valor Maior Compra: </b> R$      669,80<br><b>Quant Pagto Atraso: </b>    1.133<br><b>Média de Atraso: </b>        59,44<br><b>Número de Compras: </b>        8<br><b>Primeira Compra: </b>04/09/2014<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6142472,-23.7002625</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BIOFARMA NATURAL LTDA</name>
+		<Snippet maxLines="1">BAIRRO:PQ. REAL - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000407<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Pq. Real<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        22</b><br><b>Total em R$: R$       435,00</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       942,95<br><b>Maior Atraso: </b> R$       210,00<br><b>Valor Maior Compra: </b> R$    1.104,60<br><b>Quant Pagto Atraso: </b>    4.873<br><b>Média de Atraso: </b>        31,10<br><b>Número de Compras: </b>       16<br><b>Primeira Compra: </b>10/04/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6230798,-23.695631</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CLASSE FARMA DROGARIAS LTDA</name>
+		<Snippet maxLines="1">BAIRRO:CENTRO - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000533<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Centro<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        64</b><br><b>Total em R$: R$     1.078,90</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$     1.946,15<br><b>Maior Atraso: </b> R$       314,00<br><b>Valor Maior Compra: </b> R$    1.196,05<br><b>Quant Pagto Atraso: </b>    8.305<br><b>Média de Atraso: </b>        48,58<br><b>Número de Compras: </b>       21<br><b>Primeira Compra: </b>20/12/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6260552,-23.6868473</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DROGA LIPE LTDA ME</name>
+		<Snippet maxLines="1">BAIRRO:CAMPANARIO - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000437<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Campanario<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        39</b><br><b>Total em R$: R$       591,02</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       109,18<br><b>Maior Atraso: </b> R$       261,00<br><b>Valor Maior Compra: </b> R$      413,12<br><b>Quant Pagto Atraso: </b>    2.473<br><b>Média de Atraso: </b>        37,52<br><b>Número de Compras: </b>       24<br><b>Primeira Compra: </b>03/05/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6207992,-23.6663128</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DROGAMARIS LTDA -ME</name>
+		<Snippet maxLines="1">BAIRRO:JD.SAO JOSE - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000485<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Jd.sao Jose<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        47</b><br><b>Total em R$: R$       906,30</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       278,30<br><b>Maior Atraso: </b> R$       139,00<br><b>Valor Maior Compra: </b> R$    1.163,40<br><b>Quant Pagto Atraso: </b>    4.492<br><b>Média de Atraso: </b>        36,88<br><b>Número de Compras: </b>       17<br><b>Primeira Compra: </b>18/04/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.5833471,-23.6760921</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DROGARIA CENTRAL DE DIADEMA LTDA EPP</name>
+		<Snippet maxLines="1">BAIRRO:CENTRO - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000766<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Centro<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        29</b><br><b>Total em R$: R$       461,90</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       762,22<br><b>Maior Atraso: </b> R$       210,00<br><b>Valor Maior Compra: </b> R$    1.084,85<br><b>Quant Pagto Atraso: </b>    5.686<br><b>Média de Atraso: </b>        46,40<br><b>Número de Compras: </b>       17<br><b>Primeira Compra: </b>12/06/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6272509,-23.6903199</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>SUPERMERCARDO FLAQUER LTDA</name>
+		<Snippet maxLines="1">BAIRRO:VILA EUCLIDES - CIDADE: SAO BERNARDO DO CAMPO</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>001075<br><b>Cidade: </b>Sao Bernardo do Campo<br><b>Bairro: </b>Vila Euclides<br><b>Segmento: </b>Supermercado<br><b>Vendedor: </b>Maria Suzana Cruz<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:       192</b><br><b>Total em R$: R$     2.930,40</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$     2.930,40<br><b>Maior Atraso: </b> R$         0,00<br><b>Valor Maior Compra: </b> R$    2.930,40<br><b>Quant Pagto Atraso: </b>        0<br><b>Média de Atraso: </b>         0,00<br><b>Número de Compras: </b>        1<br><b>Primeira Compra: </b>02/08/2020<br><b>Última Compra: </b>18/08/2015<br>]]></description>
+		<styleUrl>#SEG007</styleUrl> 
+		<Point>
+			<coordinates>-46.5602781,-23.7000146</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Camera>
+	<longitude>-46.25352167907087</longitude>
+	<latitude>-23.81446548603097</latitude>
+	<altitude>148685.7194827138</altitude>
+	<heading>4.189380692388953</heading>
+	<tilt>18.43317880934781</tilt>
+	<roll>-2.371421097488254</roll>
+	<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</Camera>
+</Document>
+</kml>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>clientes_por_segmento.kml</name>
+<ScreenOverlay id="logo">
+	<name>Logo</name>
+	<Icon>
+		<href>https://docs.google.com/document/d/e/2PACX-1vSXr6R2ViDPBELRiioCeCdojNGAyNC3F4K5HOWglDwwAzHqwxiacMgNdhze5Fv02_ALQoVI0kBDvXGU/pub</href>
+	</Icon>
+	<overlayXY 			x="0" y="1" xunits="fraction" 	yunits="fraction"/>
+	<screenXY 			x="0" y="1" xunits="fraction" 	yunits="fraction"/>
+	<rotationXY 		x="0" y="0" xunits="fraction" 	yunits="fraction"/>
+	<size 				x="0" y="0" xunits="pixels" 	yunits="pixels"/>
+</ScreenOverlay>
+<ScreenOverlay>
+        <name>Legenda</name>
+        <Icon>
+            <href>C:\planilhas\web2\legenda.png</href>
+        </Icon>
+        <overlayXY	x="0.01" y="0.05" 	xunits="fraction" yunits="fraction"/>
+        <screenXY 	x="0.01" y="0.05" 	xunits="fraction" yunits="fraction"/>
+        <rotationXY x="0" 	 y="0" 		xunits="fraction" yunits="fraction"/>
+        <size 		x="0" 	 y="0" 		xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+<open>1</open>
+<Style id="SEG001">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG002">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG003">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG004">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG005">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG006">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG007">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG008">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG009">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG010">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href></Icon></IconStyle>
+</Style>
+<Style id="SEG011">
+   <LabelStyle>
+     <color>ff0000cc</color>
+	  <scale>0</scale>
+   </LabelStyle>
+   <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href></Icon></IconStyle>
+</Style>
+<Folder>
+<name>DROGARIA</name>
+	<Placemark>
+		<name>ADMILSON L OLIVEIRA DROGARIA ME</name>
+		<Snippet maxLines="1">BAIRRO:SERRARIA - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000987<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Serraria<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        10</b><br><b>Total em R$: R$       154,90</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       154,90<br><b>Maior Atraso: </b> R$       160,00<br><b>Valor Maior Compra: </b> R$      669,80<br><b>Quant Pagto Atraso: </b>    1.133<br><b>Média de Atraso: </b>        59,44<br><b>Número de Compras: </b>        8<br><b>Primeira Compra: </b>04/09/2014<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6142472,-23.7002625</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BIOFARMA NATURAL LTDA</name>
+		<Snippet maxLines="1">BAIRRO:PQ. REAL - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000407<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Pq. Real<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        22</b><br><b>Total em R$: R$       435,00</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       942,95<br><b>Maior Atraso: </b> R$       210,00<br><b>Valor Maior Compra: </b> R$    1.104,60<br><b>Quant Pagto Atraso: </b>    4.873<br><b>Média de Atraso: </b>        31,10<br><b>Número de Compras: </b>       16<br><b>Primeira Compra: </b>10/04/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6230798,-23.695631</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CLASSE FARMA DROGARIAS LTDA</name>
+		<Snippet maxLines="1">BAIRRO:CENTRO - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000533<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Centro<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        64</b><br><b>Total em R$: R$     1.078,90</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$     1.946,15<br><b>Maior Atraso: </b> R$       314,00<br><b>Valor Maior Compra: </b> R$    1.196,05<br><b>Quant Pagto Atraso: </b>    8.305<br><b>Média de Atraso: </b>        48,58<br><b>Número de Compras: </b>       21<br><b>Primeira Compra: </b>20/12/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6260552,-23.6868473</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DROGA LIPE LTDA ME</name>
+		<Snippet maxLines="1">BAIRRO:CAMPANARIO - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000437<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Campanario<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        39</b><br><b>Total em R$: R$       591,02</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       109,18<br><b>Maior Atraso: </b> R$       261,00<br><b>Valor Maior Compra: </b> R$      413,12<br><b>Quant Pagto Atraso: </b>    2.473<br><b>Média de Atraso: </b>        37,52<br><b>Número de Compras: </b>       24<br><b>Primeira Compra: </b>03/05/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6207992,-23.6663128</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DROGAMARIS LTDA -ME</name>
+		<Snippet maxLines="1">BAIRRO:JD.SAO JOSE - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000485<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Jd.sao Jose<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        47</b><br><b>Total em R$: R$       906,30</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       278,30<br><b>Maior Atraso: </b> R$       139,00<br><b>Valor Maior Compra: </b> R$    1.163,40<br><b>Quant Pagto Atraso: </b>    4.492<br><b>Média de Atraso: </b>        36,88<br><b>Número de Compras: </b>       17<br><b>Primeira Compra: </b>18/04/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.5833471,-23.6760921</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DROGARIA CENTRAL DE DIADEMA LTDA EPP</name>
+		<Snippet maxLines="1">BAIRRO:CENTRO - CIDADE: DIADEMA</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>000766<br><b>Cidade: </b>Diadema<br><b>Bairro: </b>Centro<br><b>Segmento: </b>Drogaria<br><b>Vendedor: </b>Solange Nunes Ol. Mota<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:        29</b><br><b>Total em R$: R$       461,90</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$       762,22<br><b>Maior Atraso: </b> R$       210,00<br><b>Valor Maior Compra: </b> R$    1.084,85<br><b>Quant Pagto Atraso: </b>    5.686<br><b>Média de Atraso: </b>        46,40<br><b>Número de Compras: </b>       17<br><b>Primeira Compra: </b>12/06/2012<br><b>Última Compra: </b>02/08/2020<br>]]></description>
+		<styleUrl>#SEG002</styleUrl> 
+		<Point>
+			<coordinates>-46.6272509,-23.6903199</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>SUPERMERCARDO FLAQUER LTDA</name>
+		<Snippet maxLines="1">BAIRRO:VILA EUCLIDES - CIDADE: SAO BERNARDO DO CAMPO</Snippet>
+		<description><![CDATA[Links:<br> <a href="C:\planilhas\web2\layoutit\src\index.html">Relatorio</a><br><hr><b>DADOS DO CLIENTE</b><br><b>Código: </b>001075<br><b>Cidade: </b>Sao Bernardo do Campo<br><b>Bairro: </b>Vila Euclides<br><b>Segmento: </b>Supermercado<br><b>Vendedor: </b>Maria Suzana Cruz<br><br><hr><b>FATURAMENTO NO PERÍODO</b><br><b>Total em UN:       192</b><br><b>Total em R$: R$     2.930,40</b><br><hr><b>DADOS FINANCEIROS</b><br><b>Saldo em Aberto: </b> R$     2.930,40<br><b>Maior Atraso: </b> R$         0,00<br><b>Valor Maior Compra: </b> R$    2.930,40<br><b>Quant Pagto Atraso: </b>        0<br><b>Média de Atraso: </b>         0,00<br><b>Número de Compras: </b>        1<br><b>Primeira Compra: </b>02/08/2020<br><b>Última Compra: </b>18/08/2015<br>]]></description>
+		<styleUrl>#SEG007</styleUrl> 
+		<Point>
+			<coordinates>-46.5602781,-23.7000146</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Camera>
+	<longitude>-46.25352167907087</longitude>
+	<latitude>-23.81446548603097</latitude>
+	<altitude>148685.7194827138</altitude>
+	<heading>4.189380692388953</heading>
+	<tilt>18.43317880934781</tilt>
+	<roll>-2.371421097488254</roll>
+	<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+</Camera>
+</Document>
+</kml>
